@@ -116,4 +116,4 @@ class Trie {
   
 }
 
-module.exports CompleteMe;
+module.exports { Node, Trie };
