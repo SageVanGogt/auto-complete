@@ -116,4 +116,4 @@ class Trie {
   
 }
 
-module.exports { Node, Trie };
+module.exports = { Node, Trie };
